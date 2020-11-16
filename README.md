@@ -8,6 +8,8 @@ Person re-identification (re-id) identifies a query person in multiple non overl
 
 # Proposed architecture
 
+The proposed solution learns the highly discriminative regions of pedestrian images along with focusing on the non-discriminative regions which provide sufficient contextual information to recognize a person with negligible additional computational resources.
+
 ![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/network.jpg)
 
 The proposed work is based on deep-learning based person re-identification library "torchreid", written in pytorch. The detailed steps to install this library along with prerequisites are available at https://github.com/KaiyangZhou/deep-person-reid. The library provides a unified interface for training and testing of various person re-identification datasets.
