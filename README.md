@@ -18,7 +18,7 @@ The configuration file (config.py) sets person re-id dataset Market1501 as the d
 
 Training: Start the training by using command: python train.py
 
-# Proposed Results
+# Proposed results
 The proposed network is trained and evaluated on four different preson re-id datasets, graphical representation of the results is given below:
 
 ![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/graphs.PNG)
