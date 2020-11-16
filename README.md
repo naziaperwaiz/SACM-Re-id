@@ -23,7 +23,7 @@ Training: Start the training by using command: python train.py
 # Proposed results
 The proposed network is trained and evaluated on four different preson re-id datasets, graphical representation of the results is given below:
 
-![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/graphs.PNG)
+![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/graphs1.png)
 
 
 ![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/comparison%20with%20existing%20works.JPG)
