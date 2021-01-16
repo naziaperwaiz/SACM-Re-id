@@ -12,7 +12,15 @@ The proposed solution learns the highly discriminative regions of pedestrian ima
 
 ![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/network.jpg)
 
-The proposed work is based on deep-learning based person re-identification library "torchreid", written in pytorch. The detailed steps to install this library along with prerequisites are available at https://github.com/KaiyangZhou/deep-person-reid. The library provides a unified interface for training and testing of various person re-identification datasets.
+The proposed work is based on deep-learning based person re-identification library "torchreid", written in pytorch. The detailed steps to install this library along with prerequisites are available [here](https://github.com/KaiyangZhou/deep-person-reid). The library provides a unified interface for training and testing of various person re-identification datasets.
+
+# Datasets
+
+If training script does not download the dataset, kindly download respective dataset from given links and place in the "/torchreid/data/" folder before starting the training.
+Markup : * Market1501 dataset can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
+         * DukeMTMC-reID dataset can be downloaded from [GoogleDrive](https://drive.google.com/u/1/uc?id=1jjE85dRCMOgRtvJ5RQV9-Afs-2_5dY3O&export=download)
+         * CUHK03 dataset can be downloaded from the [author's webpage](https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html). You need to fill in your details in the form after clicking the "Download" button. 
+         * MSMT17 dataset can be downloaded by following the detailed instructions available [here](https://www.pkuvmc.com/dataset.html)
 
 # Training
 
