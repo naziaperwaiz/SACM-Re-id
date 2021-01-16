@@ -17,13 +17,13 @@ The proposed work is based on deep-learning based person re-identification libra
 # Datasets
 
 If training script does not download the dataset, kindly download respective dataset from given links and place in the "/torchreid/data/" folder before starting the training.
-###### Market1501
+## Market1501
 Market 1501 dataset can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
-###### DukeMTMC-reID
+## DukeMTMC-reID
 DukeMTMC-reID dataset can be downloaded from [GoogleDrive](https://drive.google.com/u/1/uc?id=1jjE85dRCMOgRtvJ5RQV9-Afs-2_5dY3O&export=download)
-###### CUHK03
+## CUHK03
 CUHK03 dataset can be downloaded from the [author's webpage](https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html). You need to fill in your details in the form after clicking the "Download" button. 
-###### MSMT17
+## MSMT17
 MSMT17 dataset can be downloaded by following the detailed instructions available [here](https://www.pkuvmc.com/dataset.html)
 
 # Training
