@@ -20,9 +20,12 @@ If training script does not download the dataset, kindly download respective dat
 ## Market1501
 Market 1501 dataset can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
 ## DukeMTMC-reID
-DukeMTMC-reID dataset can be downloaded from [GoogleDrive](https://drive.google.com/u/1/uc?id=1jjE85dRCMOgRtvJ5RQV9-Afs-2_5dY3O&export=download)
+DukeMTMC-reID dataset is an open-access dataset, the dataset can be downloaded via GoogleDriver and BaiduYun, the [download links](https://github.com/sxzrt/DukeMTMC-reID_evaluation#download-dataset) are shared by the authors of DukeMTMC-ReID dataset via their [github repository](https://github.com/sxzrt/DukeMTMC-reID_evaluation). The authors of the dataset are very generous to handle the queries regarding dataset download links as mentioned [here](https://github.com/sxzrt/DukeMTMC-reID_evaluation#download-dataset).
 ## CUHK03
-CUHK03 dataset can be downloaded from the [author's webpage](https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html). You need to fill in your details in the form after clicking the "Download" button. 
+CUHK03 dataset can be downloaded from the [author's webpage](https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html). 
+1. To download CUHK03 dataset please go to fill out the application form found at http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html and click download. 
+2. Please finish the form to obtain a download link. (This form is only to keep track of who owns the dataset) 
+
 ## MSMT17
 MSMT17 dataset can be downloaded by following the detailed instructions available [here](https://www.pkuvmc.com/dataset.html)
 
