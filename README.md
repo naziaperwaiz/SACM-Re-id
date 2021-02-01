@@ -4,7 +4,7 @@ Stochastic Attentions and Context Learning for person re-identification
 # Person re-identification (re-id)
 Person re-identification (re-id) identifies a query person in multiple non overlapping camera views where the same person appears in different poses, angles and views under different illumination conditions. Person re-identification is one of the major surveillance components that needs automation to ensure 24/7 public security. 
 
-![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/fig_re-id_1.jpg)
+![alt text](https://github.com/naziaperwaiz/Stochastic-Attentions-and-Context-Learning-for-Person-Re-id/blob/main/Figures/fig1_reid_1.jpg)
 
 # Proposed architecture
 
