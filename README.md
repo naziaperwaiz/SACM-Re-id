@@ -1,4 +1,4 @@
-# Stochastic-Attention-and-Context-Learning-for-Person-Re-id
+# Stochastic-Attention-and-Context-Mapping-for-Person-Re-id
 Stochastic Attention and Context Learning for person re-identification
 
 # Person re-identification (re-id)
